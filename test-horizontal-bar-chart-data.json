@@ -1,0 +1,16 @@
+{
+  "entries": [
+    {
+      "title": "Test title 1",
+      "value": 100
+    },
+    {
+      "title": "Test title 2",
+      "value": 80
+    },
+    {
+      "title": "Test title 3",
+      "value": 60
+    }
+  ]
+}
